@@ -29,7 +29,7 @@ series:
 
 拘束力のある運用指令は、連邦の情報及び情報システムを保護する目的の、連邦・行政府の省庁に対する[法的義務を伴う指令](https://uscode.house.gov/view.xhtml?req=(title:44%20section:3552%20edition:prelim)%20OR%20(granuleid:USC-prelim-title44-section3552)&f=treesort&edition=prelim&num=0&jumpTo=true)です。
 
-[合衆国法典第44編第3553条の(b)第(2)項](https://uscode.house.gov/view.xhtml?hl=false&edition=prelim&req=granuleid%3AUSC-prelim-title44-section3553&f=treesort&num=0&saved=%7CKHRpdGxlOjQ0IHNlY3Rpb246MzU1MiBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlNDQtc2VjdGlvbjM1NTIp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim)は、国土安全保障省（DHS: Department of Homeland Security）長官に、拘束力のある運用指令の実施に関する策定と監督の権限を与えています。
+[合衆国法典第44編第3553条第(b)項第(2)号](https://uscode.house.gov/view.xhtml?hl=false&edition=prelim&req=granuleid%3AUSC-prelim-title44-section3553&f=treesort&num=0&saved=%7CKHRpdGxlOjQ0IHNlY3Rpb246MzU1MiBlZGl0aW9uOnByZWxpbSkgT1IgKGdyYW51bGVpZDpVU0MtcHJlbGltLXRpdGxlNDQtc2VjdGlvbjM1NTIp%7CdHJlZXNvcnQ%3D%7C%7C0%7Cfalse%7Cprelim)は、国土安全保障省（DHS: Department of Homeland Security）長官に、拘束力のある運用指令の実施に関する策定と監督の権限を与えています。
 
 連邦機関は、DHSが策定した指令に準拠する[必要があります](https://uscode.house.gov/view.xhtml?req=(title:44%20section:3554%20edition:prelim)%20OR%20(granuleid:USC-prelim-title44-section3554)&f=treesort&edition=prelim&num=0&jumpTo=true)。
 
