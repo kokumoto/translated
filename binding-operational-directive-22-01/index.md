@@ -78,8 +78,8 @@ series:
 ## CISAの活動
 {{% /summary %}}
 
-1. [https://cisa.gov/known-exploited-vulnerabilities](https://kev.kokumoto.com)[^2]で既知の悪用された脆弱性のカタログを管理し、認識及び活動させるために更新プログラムについて機関に注意喚起する。
-2. CISAは、[https://cisa.gov/known-exploited-vulnerabilities](https://kev.kokumoto.com)のカタログに脆弱性を含め、また追加するにあたっての閾値と条件を公開する。
+1. [https://cisa.gov/known-exploited-vulnerabilities]({{<ref "translated/known-exploited-vulnerabilities" >}})[^2]で既知の悪用された脆弱性のカタログを管理し、認識及び活動させるために更新プログラムについて機関に注意喚起する。
+2. CISAは、[https://cisa.gov/known-exploited-vulnerabilities]({{<ref "translated/known-exploited-vulnerabilities" >}})のカタログに脆弱性を含め、また追加するにあたっての閾値と条件を公開する。
 3. 本指令の発行以降、必要に応じ、CISAは一般的なサイバーセキュリティ環境の変化を考慮するために本指令を見直すとともに、連邦情報システム向けに追加の脆弱性管理のベストプラクティスを組み込むための補足的指令の発行を検討する。
 4. 年次で、各年度末までに、国土安全保障長官、行政管理予算局（OMB: Office of Management and Budget）局長、及び国家サイバー長官に対し、本指令の実装に関する省庁横断の状況及び未解決問題を識別しての報告を行う。
 
