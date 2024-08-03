@@ -50,7 +50,7 @@ series:
 
 ### 適用範囲
 
-本指令は、政府機関のオンプレミスで管理されているか、政府機関に代わって第三者によりホスティングされている連邦情報システムに存在する、全てのソフトウェアとハードウェアに適用される。これらの要求される活動は、政府機関の代理としての他者により利用又は運用される情報システムを含む、政府機関の情報を収集、処理、補完、伝送、情報発信、又はその他の方法で保持する、全ての連邦情報システムに適用される。
+本指令は、政府機関のオンプレミスで管理されているか、政府機関に代わって第三者によりホスティングされている連邦情報システムに存在する、全てのソフトウェアとハードウェアに適用される。これらの要求される活動は、政府機関の代理としての他者により利用又は運用される情報システムを含む、政府機関の情報を収集、処理、保管、伝送、情報発信、又はその他の方法で保持する、全ての連邦情報システムに適用される。
 
 {{% /details %}}
 {{% details %}}
@@ -90,7 +90,7 @@ series:
 {{% /summary %}}
 
 - [米国国家脆弱性データベース（NVD: National Vulnerability Database）に列挙されている脆弱性と、CISAの既知の悪用された脆弱性（KEV: Known Exploited Vulnerabilities）カタログに列挙されている脆弱性の違いは何ですか？](#what-is-the-difference-between-vulnerabilities-listed-in-the-national-vulnerability-database-nvd-and-those-in-cisas-catalog-of-known-exploited-vulnerabilities-kevs)
-- [最初に修復することがより重要なのはどのような脆弱性ですか？重大及び高い深刻度の脆弱性ですか、それとも既知の悪用された脆弱性ですか？](#what-is-more-important-to-remediate-first---critical-and-high-or-known-exploited-vulnerabilities)
+- [最初に修復することがより重要なのはどのような脆弱性ですか？重大及び高深刻度の脆弱性ですか、それとも既知の悪用された脆弱性ですか？](#what-is-more-important-to-remediate-first---critical-and-high-or-known-exploited-vulnerabilities)
 - [テレワークが長期化しているため、ほとんどのワークステーションが遠隔地にあり、更新が困難です。CISAにはローミングデバイスやノーマディックデバイスの更新に関する推奨事項はありますか？](#with-extended-telework-most-of-our-workstations-are-remote-and-hard-to-patch-does-cisa-have-any-recommendations-for-patching-roaming-and-nomadic-devices)
 - [CISAはどの程度の頻度で新しい脆弱性をカタログに追加しますか？](#how-often-will-cisa-add-new-vulnerabilities-to-the-catalog)
 - [深刻度が高又は重大のCVEと、既知の悪用された脆弱性（KEV）の違いは何ですか？](#whats-the-difference-between-a-high-or-critical-cve-and-a-known-exploited-vulnerability-kev)
@@ -116,7 +116,7 @@ NVDは、共通脆弱性識別子（CVE: Common Vulnerabilities and Exposures）
 
 また、「重大」と分類された多くの脆弱性は非常に複雑で、実際に悪用されたことはありません。実際、CVEの総数の4%未満のみが、公の場で悪用されています。しかし、脅威主体は気に入った脆弱性を非常に迅速に悪用します。既知の悪用された4%のCVEのうち、42%が開示の0日目に、50%が2日以内に、そして75%が28日以内に使用されています。
 
-### 最初に修復することがより重要なのはどのような脆弱性ですか？重大及び高い深刻度の脆弱性ですか、それとも既知の悪用された脆弱性ですか？ {#what-is-more-important-to-remediate-first---critical-and-high-or-known-exploited-vulnerabilities}
+### 最初に修復することがより重要なのはどのような脆弱性ですか？重大及び高深刻度の脆弱性ですか、それとも既知の悪用された脆弱性ですか？ {#what-is-more-important-to-remediate-first---critical-and-high-or-known-exploited-vulnerabilities}
 
 既知の悪用された脆弱性が、最優先で修復されるべきです。2019年まで遡っての過去の脆弱性データの調査に基づくと、[全ての既知の脆弱性のうちの4%未満のみが、実際に攻撃者によって使用されています]()。BOD 22-01は、政府機関の焦点を実社会の攻撃では使われることがないかもしれない数千の脆弱性に当てさせるのではなく、有効な脅威である脆弱性に焦点を移しています。CISAは、特にマシン間の通信及び大規模な自動化においては、CVSS評価は依然として組織の脆弱性管理の取り組みの一部になりうるということを認識しています。本指令は、機関が自らの修復作業に優先順位を付けるのを支援することを意図したものであることを覚えておいてください。本指令は機関をいかなるコンプライアンス上の義務から解放するものでもなく、その義務には他の脆弱性の解決が含まれます。
 
