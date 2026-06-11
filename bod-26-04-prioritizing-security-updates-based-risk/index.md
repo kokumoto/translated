@@ -5,7 +5,7 @@ type: posts
 title: 拘束力のある運用指令26-04「リスクに基づくセキュリティ更新の優先度付与について」
 description: "本指令は、全ての脆弱性及びシステムを同等に扱うのではなく、最もリスクの高い領域にパッチ適用作業を集中させる。脆弱性修復の緊急度は、資産の公開状況、KEV掲載状況、悪用の自動化可能性、及び技術的影響に基づいて決定される。"
 images:
-- bod-26-04-prioritizing-security-updates-based-risk/333_BOD_26-04_Carousel_700x394.jpg
+- translated/bod-26-04-prioritizing-security-updates-based-risk/333_BOD_26-04_Carousel_700x394.jpg
 
 slug:
 authors:
